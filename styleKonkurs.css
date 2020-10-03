@@ -502,7 +502,8 @@ li {
     color: #fff
 }
 
-.mail {
+.mail,
+.map {
     font-size: 35px;
     font-weight: 200;
     color: #fff;
